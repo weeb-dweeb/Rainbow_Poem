@@ -5,9 +5,6 @@ out of stuff
 purple
 pink
 orange
-blue
-INDIGO
-green
 unicorn
 yellow
 red
@@ -19,3 +16,4 @@ i like em both
 catto
 doggo
 actually 4 cattos
+and 1 small doggo
